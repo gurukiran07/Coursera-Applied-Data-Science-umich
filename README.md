@@ -6,4 +6,4 @@ This repository includes all the assignments completed during University of Mich
 - Pandas
 - Data Cleaning
 
-All the datasets used are linked.
+I tried to write answers as pandorable as possible. All the datasets used are linked.
